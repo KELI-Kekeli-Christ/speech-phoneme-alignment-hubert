@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+env/
+.env
+*.pth
+*.pt
+.DS_Store
+# Audio files are tracked (part of the dataset)
+# Uncomment below to exclude them if repo size is an issue:
+# TPHUBERT/audio/
