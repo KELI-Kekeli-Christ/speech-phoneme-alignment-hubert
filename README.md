@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # Speech Representation Analysis with HuBERT
 
 > Exploring speech representations learned by **HuBERT** (Hidden-Unit BERT) on LibriSpeech audio data with forced phoneme alignments — studying how self-supervised audio models capture phonetic structure.
